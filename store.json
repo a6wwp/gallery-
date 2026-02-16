@@ -1,29 +1,19 @@
 {
   "packs": [
     {
-      "name": "a6",
+      "name": "a6's pack",
       "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/a6%20pack.png?raw=true",
       "zip_url": "https://github.com/a6wwp/gallery-/raw/refs/heads/main/a6.zip"
     },
     {
-      "name": "P2",
-      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/A7.png?raw=true",
-      "zip_url": "https://github.com/a6wwp/gallery-/raw/refs/heads/main/sweboy.zip"
-    },
-    {
-      "name": "Xel",
-      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/Xel.png?raw=true",
+      "name": "Xel's pack",
+      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/Screenshot%202026-02-16%20031353.png?raw=true",
       "zip_url": "https://github.com/a6wwp/gallery-/raw/refs/heads/main/xel.zip"
     },
     { 
-      "name": "Cor",
-      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/K9.png?raw=true",
-      "zip_url": "https://github.com/a6wwp/gallery-/raw/refs/heads/main/cor.zip" 
-    },
-    { 
-      "name": "Roy",
-      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/7g.png?raw=true",
-      "zip_url": "https://github.com/a6wwp/gallery-/raw/refs/heads/main/roy.zip" 
+      "name": "HiveSweat",
+      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/hivesweat.png?raw=true",
+      "zip_url": "https://github.com/a6wwp/gallery-/raw/refs/heads/main/hivesweat.zip" 
     }
   ]
 }
